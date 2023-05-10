@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "name": "kanban-restapi",
+  "version": "1.0.0",
+  "description": "Rest Api for kanban board",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch db.json --no-cors true --port 9000"
+  },
+  "author": "",
+  "license": "ISC"
+}
