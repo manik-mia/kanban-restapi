@@ -8,7 +8,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js"
+    "start": "json-server --watch db.json --no-cors true --port 9000"
   },
   "author": "",
   "license": "ISC"

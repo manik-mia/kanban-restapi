@@ -1,28 +1,28 @@
 {
   "todos": [
     {
-      "userId": 1,
       "title": "delectus aut autem",
+      "userId": 1,
       "status": "todo",
       "id": 1
     },
     {
-      "userId": 1,
       "title": "quis ut nam facilis et officia qui",
-      "status": "in-progres",
+      "userId": 1,
+      "status": "todo",
       "id": 2
     },
     {
-      "userId": 1,
       "title": "quis ut nam facilis et officia qui",
-      "status": "in-progres",
+      "userId": 1,
+      "status": "todo",
       "id": 3
     },
     {
-      "userId": 1,
-      "id": 4,
       "title": "et porro tempora",
-      "status": "approved"
+      "userId": 1,
+      "status": "approved",
+      "id": 4
     },
     {
       "userId": 1,
@@ -43,10 +43,10 @@
       "status": "approved"
     },
     {
-      "userId": 1,
-      "id": 8,
       "title": "quo adipisci enim quam ut ab",
-      "status": "todo"
+      "userId": 1,
+      "status": "test",
+      "id": 8
     },
     {
       "userId": 1,
@@ -61,21 +61,21 @@
       "id": 10
     },
     {
-      "userId": 1,
-      "id": 11,
       "title": "vero rerum temporibus dolor",
-      "status": "todo"
+      "userId": 1,
+      "status": "approved",
+      "id": 11
     },
     {
-      "userId": 1,
-      "id": 12,
       "title": "ipsa repellendus fugit nisi",
-      "status": "approved"
+      "userId": 1,
+      "status": "todo",
+      "id": 12
     },
     {
-      "userId": 1,
       "title": "et doloremque nulla",
-      "status": "todo",
+      "userId": 1,
+      "status": "Archived",
       "id": 13
     },
     {
@@ -85,22 +85,22 @@
       "id": 14
     },
     {
-      "userId": 1,
-      "id": 15,
       "title": "ab voluptatum amet voluptas",
-      "status": "approved"
+      "userId": 1,
+      "status": "test",
+      "id": 15
     },
     {
-      "userId": 1,
-      "id": 16,
       "title": "accusamus eos facilis sint et aut voluptatem",
-      "status": "in-progres"
+      "userId": 1,
+      "status": "todo",
+      "id": 16
     },
     {
-      "userId": 1,
-      "id": 17,
       "title": "quo laboriosam deleniti aut qui",
-      "status": "todo"
+      "userId": 1,
+      "status": "todo",
+      "id": 17
     },
     {
       "userId": 1,
@@ -157,16 +157,16 @@
       "status": "in-progres"
     },
     {
-      "userId": 2,
-      "id": 27,
       "title": "veritatis pariatur delectus",
-      "status": "todo"
+      "userId": 2,
+      "status": "Archived",
+      "id": 27
     },
     {
-      "userId": 2,
-      "id": 28,
       "title": "nesciunt totam sit blanditiis sit",
-      "status": "in-progres"
+      "userId": 2,
+      "status": "Archived",
+      "id": 28
     },
     {
       "userId": 2,
@@ -175,38 +175,267 @@
       "status": "completed"
     },
     {
-      "userId": 2,
-      "id": 30,
       "title": "nemo perspiciatis",
-      "status": "completed"
+      "userId": 2,
+      "status": "todo",
+      "id": 30
     },
     {
-      "userId": 2,
-      "id": 31,
       "title": "nemo perspiciatis",
-      "status": "completed"
+      "userId": 2,
+      "status": "Archived",
+      "id": 31
+    },
+    {
+        "title": "Test",
+        "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
+        "status": "todo",
+    
+        "id": 32
+    },
+    {
+      "title": "Test",
+      "status": "in-progres",
+      "id": 33
     }
   ],
   "boards": [
     {
-      "id": 1,
       "title": "To Do",
-      "status": "todo"
+      "status": "todo",
+      "id": 1
     },
     {
-      "id": 2,
       "title": "In Progress",
-      "status": "in-progres"
+      "status": "in-progres",
+      "id": 2
     },
     {
-      "id": 3,
       "title": "Completed",
-      "status": "completed"
+      "status": "completed",
+      "id": 3
     },
     {
       "id": 4,
       "title": "Approved",
       "status": "approved"
+    },
+    {
+      "title": "Archived",
+      "status": "Archived",
+      "id": 5
+    },
+    {
+      "title": "test",
+      "status": "test",
+      "id": 6
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "name": "Carolyn Perkins",
+      "email": "eileen_h@hotmail.com",
+      "img": "/img/avatars/thumb-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Terrance Moreno",
+      "email": "terrance_moreno@infotech.io",
+      "img": "/img/avatars/thumb-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ron Vargas",
+      "email": "ronnie_vergas@infotech.io",
+      "img": "/img/avatars/thumb-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Luke Cook",
+      "email": "cookie_lukie@hotmail.com",
+      "img": "/img/avatars/thumb-4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Joyce Freeman",
+      "email": "joyce991@infotech.io",
+      "img": "/img/avatars/thumb-5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Samantha Phillips",
+      "email": "samanthaphil@infotech.io",
+      "img": "/img/avatars/thumb-6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Tara Fletcher",
+      "email": "taratarara@imaze.edu.du",
+      "img": "/img/avatars/thumb-7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Frederick Adams",
+      "email": "iamfred@imaze.infotech.io",
+      "img": "/img/avatars/thumb-8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Carolyn Hanson",
+      "email": "carolyn_h@gmail.com",
+      "img": "/img/avatars/thumb-9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Brittany Hale",
+      "email": "brittany1134@gmail.com",
+      "img": "/img/avatars/thumb-10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Lloyd Obrien",
+      "email": "handsome-obrien@hotmail.com",
+      "img": "/img/avatars/thumb-11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Gabriella May",
+      "email": "maymaymay12@infotech.io",
+      "img": "/img/avatars/thumb-12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Lee Wheeler",
+      "email": "lee_wheeler@infotech.io",
+      "img": "/img/avatars/thumb-13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Gail Barnes",
+      "email": "gailby0116@infotech.io",
+      "img": "/img/avatars/thumb-14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Ella Robinson",
+      "email": "ella_robinson@infotech.io",
+      "img": "/img/avatars/thumb-15.jpg"
+    }
+  ],
+  "project-members": [
+    {
+      "id": 1,
+      "name": "Carolyn Perkins",
+      "email": "eileen_h@hotmail.com",
+      "img": "/img/avatars/thumb-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Terrance Moreno",
+      "email": "terrance_moreno@infotech.io",
+      "img": "/img/avatars/thumb-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ron Vargas",
+      "email": "ronnie_vergas@infotech.io",
+      "img": "/img/avatars/thumb-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Luke Cook",
+      "email": "cookie_lukie@hotmail.com",
+      "img": "/img/avatars/thumb-4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Joyce Freeman",
+      "email": "joyce991@infotech.io",
+      "img": "/img/avatars/thumb-5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Samantha Phillips",
+      "email": "samanthaphil@infotech.io",
+      "img": "/img/avatars/thumb-6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Tara Fletcher",
+      "email": "taratarara@imaze.edu.du",
+      "img": "/img/avatars/thumb-7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Frederick Adams",
+      "email": "iamfred@imaze.infotech.io",
+      "img": "/img/avatars/thumb-8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Carolyn Hanson",
+      "email": "carolyn_h@gmail.com",
+      "img": "/img/avatars/thumb-9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Brittany Hale",
+      "email": "brittany1134@gmail.com",
+      "img": "/img/avatars/thumb-10.jpg"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Live Issue",
+      "color": "bg-rose-500"
+    },
+    {
+      "name": "Bug Fix",
+      "color": "bg-sky-600",
+      "id": 2
+    },
+    {
+      "name": "Change Feature",
+      "color": "bg-pink-600",
+      "id": 3
     }
   ]
 }
