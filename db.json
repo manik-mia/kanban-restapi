@@ -1338,11 +1338,6 @@
         "status": "todo",
     
         "id": 32
-    },
-    {
-      "title": "Test",
-      "status": "in-progres",
-      "id": 33
     }
   ],
   "boards": [
