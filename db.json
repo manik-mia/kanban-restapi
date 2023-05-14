@@ -2,24 +2,172 @@
   "todos": [
     {
       "title": "delectus aut autem",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "userId": 1,
       "status": "todo",
       "id": 1
     },
     {
       "title": "quis ut nam facilis et officia qui",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "userId": 1,
       "status": "todo",
       "id": 2
     },
     {
       "title": "quis ut nam facilis et officia qui",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "userId": 1,
       "status": "todo",
       "id": 3
     },
     {
       "title": "et porro tempora",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "userId": 1,
       "status": "approved",
       "id": 4
@@ -27,12 +175,86 @@
     {
       "userId": 1,
       "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "status": "approved",
       "id": 5
     },
     {
       "userId": 1,
       "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "status": "approved",
       "id": 6
     },
@@ -40,10 +262,84 @@
       "userId": 1,
       "id": 7,
       "title": "illo expedita consequatur quia in",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "status": "approved"
     },
     {
       "title": "quo adipisci enim quam ut ab",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "userId": 1,
       "status": "test",
       "id": 8
@@ -52,28 +348,213 @@
       "userId": 1,
       "id": 9,
       "title": "molestiae perspiciatis ipsa",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "status": "approved"
     },
     {
       "userId": 1,
       "title": "illo est ratione doloremque quia maiores aut",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "status": "completed",
       "id": 10
     },
     {
       "title": "vero rerum temporibus dolor",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "userId": 1,
       "status": "approved",
       "id": 11
     },
     {
       "title": "ipsa repellendus fugit nisi",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "userId": 1,
       "status": "todo",
       "id": 12
     },
     {
       "title": "et doloremque nulla",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "userId": 1,
       "status": "Archived",
       "id": 13
@@ -81,23 +562,171 @@
     {
       "userId": 1,
       "title": "repellendus sunt dolores architecto voluptatum",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "status": "completed",
       "id": 14
     },
     {
       "title": "ab voluptatum amet voluptas",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "userId": 1,
       "status": "test",
       "id": 15
     },
     {
       "title": "accusamus eos facilis sint et aut voluptatem",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "userId": 1,
       "status": "todo",
       "id": 16
     },
     {
       "title": "quo laboriosam deleniti aut qui",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "userId": 1,
       "status": "todo",
       "id": 17
@@ -105,6 +734,43 @@
     {
       "userId": 1,
       "title": "dolorum est consequatur",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "status": "in-progres",
       "id": 18
     },
@@ -118,52 +784,385 @@
       "userId": 1,
       "id": 20,
       "title": "ullam nobis libero sapiente ad optio sint",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "status": "todo"
     },
     {
       "userId": 2,
       "id": 21,
       "title": "suscipit repellat esse",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "status": "in-progres"
     },
     {
       "userId": 2,
       "id": 22,
       "title": "distinctio vitae autem nihil ut molestias quo",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "status": "completed"
     },
     {
       "userId": 2,
       "id": 23,
       "title": "et itaque necessitatibus",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "status": "todo"
     },
     {
       "userId": 2,
       "id": 24,
       "title": "adipisci non ad dicta",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "status": "completed"
     },
     {
       "userId": 2,
       "id": 25,
       "title": "voluptas quo tenetur",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "status": "todo"
     },
     {
       "userId": 2,
       "id": 26,
       "title": "aliquam aut quasi",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "status": "in-progres"
     },
     {
       "title": "veritatis pariatur delectus",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "userId": 2,
       "status": "Archived",
       "id": 27
     },
     {
       "title": "nesciunt totam sit blanditiis sit",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "userId": 2,
       "status": "Archived",
       "id": 28
@@ -172,16 +1171,127 @@
       "userId": 2,
       "id": 29,
       "title": "laborum aut in quam",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "status": "completed"
     },
     {
       "title": "nemo perspiciatis",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "userId": 2,
       "status": "todo",
       "id": 30
     },
     {
       "title": "nemo perspiciatis",
+      "description": "test",
+        "dueDate": "2023-05-04T18:00:00.000Z",
+        "tags": [
+          {
+            "id": 1,
+            "name": "Live Issue",
+            "color": "bg-rose-500"
+          },
+          {
+            "name": "Bug Fix",
+            "color": "bg-sky-600",
+            "id": 2
+          }
+        ],
+        "projectMembers": [
+          {
+            "id": 4,
+            "name": "Luke Cook",
+            "email": "cookie_lukie@hotmail.com",
+            "img": "/img/avatars/thumb-4.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Terrance Moreno",
+            "email": "terrance_moreno@infotech.io",
+            "img": "/img/avatars/thumb-2.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Samantha Phillips",
+            "email": "samanthaphil@infotech.io",
+            "img": "/img/avatars/thumb-6.jpg"
+          }
+        ],
+        "attachments": [
+          
+        ],
       "userId": 2,
       "status": "Archived",
       "id": 31
