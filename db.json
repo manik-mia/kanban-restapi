@@ -2203,20 +2203,25 @@
      }
   ],
   "tags":[
-     {
-        "id":1,
-        "name":"Live Issue",
-        "color":"bg-rose-500"
-     },
-     {
-        "name":"Bug Fix",
-        "color":"bg-sky-600",
-        "id":2
-     },
-     {
-        "name":"Change Feature",
-        "color":"bg-pink-600",
-        "id":3
-     }
+    {
+      "id": 1,
+      "name": "Live Issue",
+      "color": "bg-rose-500"
+    },
+    {
+      "name": "Bug Fix",
+      "color": "bg-sky-600",
+      "id": 2
+    },
+    {
+      "name": "Change Feature",
+      "color": "bg-pink-600",
+      "id": 3
+    },
+    {
+      "name": "Feature Add",
+      "color": "bg-lime-600",
+      "id": 4
+    }
   ]
 }
