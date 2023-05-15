@@ -2222,6 +2222,11 @@
       "name": "Feature Add",
       "color": "bg-lime-600",
       "id": 4
+    },
+    {
+      "name": "Remove Add",
+      "color": "bg-orange-600",
+      "id": 4
     }
   ]
 }
