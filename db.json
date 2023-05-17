@@ -2273,5 +2273,39 @@
          }
       ]
      }
+  ],
+  "roles":[
+     {
+      "id":1,
+      "name":"Super Admin"
+     },
+     {
+      "id":2,
+      "name":"Admin"
+     },
+     {
+      "id":3,
+      "name":"Accounts"
+     },
+     {
+      "id":4,
+      "name":"Manager"
+     },
+     {
+      "id":5,
+      "name":"Line Manager"
+     },
+     {
+      "id":6,
+      "name":"CEO"
+     },
+     {
+      "id":7,
+      "name":"Vendor"
+     },
+     {
+      "id":8,
+      "name":"Customer"
+     }
   ]
 }
