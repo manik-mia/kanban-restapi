@@ -2228,5 +2228,50 @@
       "color": "bg-orange-600",
       "id": 4
     }
+  ],
+  "companies":[
+     {
+      "id":1,
+      "name":"Prokaushal Upodesta Ltd.",
+      "projects":[
+         {
+            "id":1,
+            "name":"Bhaluka Land"
+         },
+         {
+            "id":2,
+            "name":"Cumila PBS 01"
+         },
+         {
+            "id":3,
+            "name":"Cumila PBS 02"
+         },
+         {
+            "id":4,
+            "name":"Cumila PBS 03"
+         }
+      ]
+     },{
+      "id":2,
+      "name":"Engineering Services Ltd.",
+      "projects":[
+         {
+            "id":1,
+            "name":"DESKO U/G (old) ESL"
+         },
+         {
+            "id":2,
+            "name":"DESKO U/G (new) ESL"
+         },
+         {
+            "id":3,
+            "name":"Chittagong Overhead(ESL)"
+         },
+         {
+            "id":4,
+            "name":"MSS Mirpur"
+         }
+      ]
+     }
   ]
 }
