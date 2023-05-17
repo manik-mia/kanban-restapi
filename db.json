@@ -2307,5 +2307,50 @@
       "id":8,
       "name":"Customer"
      }
-  ]
+  ],
+  "users":[
+     {
+        "username": "admin2",
+        "email": "admin@gmail.com",
+        "password": "test",
+        "projects": [
+            {
+               "id": 1,
+               "name": "Bhaluka Land"
+            },
+            {
+               "id": 3,
+               "name": "Cumila PBS 02"
+            },
+            {
+               "id": 2,
+               "name": "Cumila PBS 01"
+            }
+        ],
+        "roles": [
+            {
+               "id": 2,
+               "name": "Admin"
+            },
+            {
+               "id": 1,
+               "name": "Super Admin"
+            },
+            {
+               "id": 4,
+               "name": "Manager"
+            },
+            {
+               "id": 3,
+               "name": "Accounts"
+            }
+        ],
+        "firstName": "Test",
+        "lastName": " Test",
+        "company": 1,
+        "mobile": "01316372924",
+        "hsLimit": 5,
+        "confirmPassword": "test"
+      }
+   ]
 }
