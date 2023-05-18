@@ -2353,5 +2353,43 @@
         "hsLimit": 5,
         "confirmPassword": "test"
       }
-   ]
+   ],
+  "permissions":[
+     {
+      "id":1,
+      "name":"Create User"
+     },
+     {
+      "id":2,
+      "name":"Edit User"
+     },
+     {
+      "id":3,
+      "name":"Delete User"
+     },
+     {
+      "id":4,
+      "name":"Create Company"
+     },
+     {
+      "id":5,
+      "name":"Delete Company"
+     },
+     {
+      "id":6,
+      "name":"Edit Company"
+     },
+     {
+      "id":7,
+      "name":"Create Project"
+     },
+     {
+      "id":8,
+      "name":"Edit Project"
+     },
+     {
+      "id":9,
+      "name":"Delete Project"
+     }
+  ]
 }
