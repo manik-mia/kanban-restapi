@@ -2397,7 +2397,7 @@
          "id":1,
          "name":"New Workspace",
          "description":"Workspace for first project",
-         "members":[
+         "workspaceMembers":[
            {
               "id":1,
               "name":"Carolyn Perkins",
