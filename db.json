@@ -2494,7 +2494,7 @@
   "boards":[
       {
          "id":1,
-         "name":"ESL Project",
+         "title":"ESL Project",
          "boardMembers":[
            {
               "id":1,
